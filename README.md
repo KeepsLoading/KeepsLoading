@@ -1,8 +1,5 @@
-## 🔗
-
-[![GitHub](https://img.shields.io/badge/GitHub-Memact-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
 [![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
-
 ---
 
 # Hi, I'm Sujay (Keeps Loading) 👋
