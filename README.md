@@ -12,8 +12,8 @@ I build systems that show how digital environments shape thinking.
 
 ## 🧠 Current Work
 
-- **Captanet** — captures activity as structured memory  
-- **Influnet** — maps influence behind behavior  
+- **Captanet** - captures activity as structured memory  
+- **Influnet** - maps influence behind behavior  
 
 ---
 
