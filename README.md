@@ -45,13 +45,5 @@ searchable memory + influence mapping
 ## 🔗
 
 [![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
-
-<img src="https://www.memact.com/favicon.png" height="16" /> <a href="https://memact.com">memact.com</a>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Memact-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
-
-<img src="https://www.memact.com/favicon.png" height="16" /> <a href="https://github.com/memact">github.com/memact</a>
-
 [![Codex](https://img.shields.io/badge/Codex-black?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/features/copilot)
-
-<img src="https://www.memact.com/favicon.png" height="16" /> <a href="https://github.com/features/copilot">Codex</a>
