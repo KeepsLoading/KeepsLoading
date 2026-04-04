@@ -2,7 +2,7 @@
 [![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
 ---
 
-# Hi, I'm Sujay (Keeps Loading) 👋
+# Hi, I'm Sujay (KeepsLoading) 👋
 
 Still loading. Always will be.
 
