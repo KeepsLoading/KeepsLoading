@@ -15,7 +15,8 @@ A system that connects your thoughts to patterns in your digital activity.
 Trying to answer: *where do your ideas actually come from?*
 
 - Working on mapping inputs → behavioral patterns  
-- Experimenting with how digital signals can explain thought formation  
+- Experimenting with how digital signals can explain thought formation
+- Building the core logic step by step
 
 ### Memact AutoMod Discord Bot
 A deployed Discord bot handling moderation and server management.
