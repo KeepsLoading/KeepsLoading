@@ -12,15 +12,15 @@ I build systems that show how digital environments shape thinking.
 
 ## 🧠 Current Work
 
-- **Captanet** - captures activity as structured memory  
-- **Influnet** - maps influence behind behavior  
+- **Memact**: You enter your thought/idea, it backs it up with sources of that particular idea from your digital activity. The project is under construction
+- **Memact AutoMod Discord Bot**: A successfully deployed discord bot covering massive number of moderator functions.
 
 ---
 
 ## ⚡ Focus
 
-- Influence vs attention economy  
-- Episodic memory systems  
+- Cognitive Science
+- Artifical Intelligence
 - Human–AI interaction  
 
 ---
@@ -35,13 +35,6 @@ I build systems that show how digital environments shape thinking.
 ## 🧠 Belief
 
 > English is becoming a programming language.
-
----
-
-## 🚧 Status
-
-Exploring a new layer for computing  
-searchable memory + influence mapping
 
 ---
 
