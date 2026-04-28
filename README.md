@@ -1,9 +1,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memact) [![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
-# Hi, I'm Sujay (KeepsLoading) 👋
+# Hi, I'm Sujay (Keeps Loading) 👋
 
-Still loading. Always will be.
-
-I build systems that explore how digital environments shape thinking.
+I’m not just into tech, by the way. I’m more interested in how people think, where ideas come from, and how the digital world quietly shapes that.
 
 ---
 
@@ -23,10 +21,7 @@ AI · Cognitive Science · Human–AI Interaction
 
 ---
 
-## 🧩 How I Think
 
-Don’t tell users what they are.  
-Show them how they got there.
 
 ---
 
