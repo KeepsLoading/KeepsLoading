@@ -10,8 +10,7 @@ Rather than just tech, I’m also interested in how people think, where ideas co
 ### IIT Bombay GenAI Hackathon (1st Place)
 
 **Boundier**  
-A browser extension that flags emotionally manipulative or attention-hijacking language across web content.  
-Breaking down signals like clickbait, urgency, fear, outrage, and polarization.
+A local-first browser extension for detecting clickbait, emotional pressure, and manipulative framing on webpages.
 
 **Endlessly**  
 An endless running game built under tight constraints.  
