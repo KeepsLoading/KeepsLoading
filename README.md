@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memact) [![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com) [![Boundier](https://img.shields.io/badge/-Boundier-004aad?style=for-the-badge&logoColor=white)](https://github.com/keepsloading/Boundier)
+[![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://github.com/Memact) [![Boundier](https://img.shields.io/badge/-Boundier-004aad?style=for-the-badge&logoColor=white)](https://github.com/keepsloading/Boundier)
 # Hi, I'm Sujay (Keeps Loading) 👋
 
 Rather than just tech, I’m also interested in how people think, where ideas come from, and how the digital world quietly shapes that. I also believe that English is becoming a new programming language. Well, you know what I mean.
