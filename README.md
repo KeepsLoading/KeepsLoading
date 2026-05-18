@@ -14,7 +14,7 @@ I’m interested in memory systems, human–AI interaction, and how useful digit
 ### IIT Bombay GenAI Hackathon (1st Place)
 
 **Boundier**  
-A local-first browser extension for Rustmeter-based influence-pressure analysis on webpages. It scores visible language patterns locally and shows evidence-linked signals behind the result.
+A local-first tool for spotting influence pressure in online content. It analyzes visible language patterns across webpages, social feeds, and video page metadata with deterministic Rustmeter scoring and evidence-linked explanations.
 
 **Endlessly**  
 A small Tkinter endless-runner prototype built in the first few minutes of the hackathon, before we risked the rest of our time on Boundier.
@@ -30,9 +30,11 @@ Handles roles, automates moderation, and keeps things running without manual eff
 ## 🧠 Ongoing Work
 
 **Memact**  
-A permissioned memory infrastructure layer that turns useful captured activity into structured memory for apps and models.
+Memact helps apps understand what users are trying to do from digital activity the user has approved.
 
-It works around evidence, nodes, edges, schema packets, and scoped access.
+It works around consent, activity categories, evidence, nodes, edges, schema packets, memory, and scoped app access.
+
+The current focus is building the intent prediction layer: taking approved activity and returning a clear prediction with the evidence behind it.
 
 ---
 
